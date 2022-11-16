@@ -27,7 +27,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *Trapy  ┃ ᴮᴼᵀ*  ────
  
 👋🏻 _Hola_ *%name*
 
@@ -35,10 +35,10 @@ const defaultMenu = {
 👥 Usuarios : %totalreg
 📈 Tiempo activo : %muptime
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.epizy.com
+▢ Sigue la cuenta de memes 
+• https://www.instagram.com/trapy_tomojado/
+▢ Entra al grupo de whatsapp
+• https://chat.whatsapp.com/JwYypzLA3Cq86bC8rjO0T8
 ─────────────
 %readmore
 Ⓟ = Premium
@@ -151,15 +151,15 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     
     let pp = './src/fg_logo.jpg'
     
-     conn.sendHydrated2(m.chat, text.trim(), '▢ Thank to ©BochilGaming\n▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, fgyt, 'YouTube', 'https://paypal.me/fg98f', 'PayPal', [
+     conn.sendHydrated2(m.chat, text.trim(), '▢ Thank to ©BMisHuevosEnTuCara\n▢ Trapy  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/trapy_tomojado\n', pp, fgyt, 'YouTube', 'https://paypal.me/naco17', 'PayPal', [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
-      ['⌬ Grupos', `${_p}gpdylux`]
+      ['⌬ Grupos', `${_p}trapy`]
     ], m)  
-    /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, [
+    /*conn.sendButton(m.chat, text.trim(), '▢ Trapy  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/trapy_tomojado\n', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
-      ['⌬ Grupos', `${_p}gpdylux`]
+      ['⌬ Grupos', `${_p}trapy`]
     ],m, rpl)*/
   
     m.react('📚') 
