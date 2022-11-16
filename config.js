@@ -3,9 +3,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5493885839638'], 
-  ['5492622689586'] 
+  ['34605735266', 'FG98', true],
+  ['0'], 
+  ['0'] 
 ] //Numeros de owner 
 
 global.mods = ['573125484672'] 
@@ -26,14 +26,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98._' 
-global.igfg = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
-global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.imgur.com/Owmb93c.png' 
+global.packname = 'Trapy┃ᴮᴼᵀ' 
+global.author = '@trapy_tomojado' 
+global.igfg = '▢ Sígueme en Instagram\nhttps://www.instagram.com/trapy_tomojado/\n' 
+global.dygp = 'https://chat.whatsapp.com/JwYypzLA3Cq86bC8rjO0T8'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/airammaricon'
+global.fgpyp = 'https://paypal.me/naco17'
+global.fglog = 'https://ih1.redbubble.net/image.1167522717.1832/pp,504x498-pad,600x600,f8f8f8.jpg' 
 
 global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
