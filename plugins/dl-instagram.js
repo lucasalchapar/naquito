@@ -2,7 +2,7 @@
 import instagramGetUrl from 'fg-ig'
 
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-    if (!args[0]) throw `✳️ Uso del comamdo\n *${usedPrefix + command}* https://www.instagram.com/p/CYHeKxyMj-J/?igshid=YmMyMTA2M2Y=`
+    if (!args[0]) throw `✳️ Uso del comamdo\n *${usedPrefix + command}* https://www.instagram.com/reel/Cknwj6FDOBq/?utm_source=ig_web_copy_link`
     m.react(rwait)
     let res = await instagramGetUrl(args[0])
     for (let result of res.url_list) {
