@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['34605735266', 'FG98', true],
+  ['34605735266', 'TRAPY', true],
   ['0'], 
   ['0'] 
 ] //Numeros de owner 
