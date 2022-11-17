@@ -1,5 +1,5 @@
 /*
-     ig : https://www.instagram.com/fg98._/
+     ig : https://www.instagram.com/trapy_tomojado/
 */
 import hispamemes from 'hispamemes'
 
