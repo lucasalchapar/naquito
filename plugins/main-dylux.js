@@ -11,7 +11,7 @@ https://chat.whatsapp.com/JR6ls1ce7OVAABHRHFnFgK
 
 
 `.trim())
-handler.help = ['gpdylux']
+handler.help = ['trapy']
 handler.tags = ['main']
 handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux'] 
 
