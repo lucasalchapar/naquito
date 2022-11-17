@@ -1,28 +1,13 @@
 let handler = async m => m.reply(`
 
-≡  *DyLux  ┃ ᴮᴼᵀ*   GRUPOS
+≡  *Trapy  ┃ ᴮᴼᵀ*   GRUPOS
 
 ─────────────
 ▢ Grupo 1
-https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU
+https://chat.whatsapp.com/JwYypzLA3Cq86bC8rjO0T8
 
 ▢ Grupo 2
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
-
-▢ Grupo 3
-https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH
-
-─────────────
-≡ Enlaces anulados? entre aquí! 
-
-▢ Grupos WhatsApp 
- https://instabio.cc/fg98ff
-─────────────
-▢ *Grupo Telegram*
- https://t.me/fgawgp
-
-▢ *YouTube*
-• https://www.youtube.com/fg98f
+https://chat.whatsapp.com/JR6ls1ce7OVAABHRHFnFgK
 
 
 `.trim())
