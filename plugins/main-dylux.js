@@ -13,6 +13,6 @@ https://chat.whatsapp.com/JR6ls1ce7OVAABHRHFnFgK
 `.trim())
 handler.help = ['trapy']
 handler.tags = ['main']
-handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux'] 
+handler.command = ['grupos', 'grupo de retrasados', 'pandilla de mongolos', 'grupo', 'trapy'] 
 
 export default handler
