@@ -7,7 +7,7 @@ let m2 = `
 ≡ _Use estos comandos sin el prefijo_
 
 ▢ Si tienes más  audios   
-envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
+envíame por telepatia el *audio + comando* con en el que responderá
 
 ┌─⊷ *AUDIOS* 
 ▢ Bot
@@ -16,11 +16,11 @@ envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
 ▢ Buenas noches
 └──────────────
 `
-//const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
+//const pp = await (await fetch('https://lacocinadebender.com/wp-content/uploads/2010/08/gatos-comiendo-pizzas-08.jpg')).buffer()
     let pp = './src/fg_logo.jpg' 
-    conn.sendButton(m.chat, m2, '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, [
+    conn.sendButton(m.chat, m2, '▢ Trapy  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/trapy_tomojado\n', pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
-      ['⌬ Grupos', `${usedPrefix}gpdylux`]
+      ['⌬ Grupos', `${usedPrefix}trapy`]
     ],m, rpyt)
    
 }
