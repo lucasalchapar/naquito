@@ -49,7 +49,7 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone https://github.com/lucasalchapar/naquito
-$ cd dylux-fg
+$ cd naquito
 $ npm i 
 $ npm start
 ```
