@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
     /*let w = await axios.get(global.API('fgmods', '/api/work', { }, 'apikey'))
     let res = w.data.result*/
-    let anu = (await axios.get('https://raw.githubusercontent.com/lucasalchapar/page/main/.github/workflows/work.json?token=GHSAT0AAAAAAB3JFFYZJEVXARBBOFSHSG72Y3XTLXQ')).data
+    let anu = (await axios.get('https://raw.githubusercontent.com/lucasalchapar/team-trapy/main/games')).data
     let res = pickRandom(anu)
  global.db.data.users[m.sender].exp += hasil
 
