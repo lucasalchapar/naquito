@@ -1,7 +1,7 @@
 /*
      ig : https://www.instagram.com/trapy_tomojado/
 */
-import hispamemes from 'hispamemes'
+import hispamemes from 'shitpost español'
 
 let handler = async (m, { conn, usedPrefix, command }) => {
 	
