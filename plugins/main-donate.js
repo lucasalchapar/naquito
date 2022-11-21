@@ -3,7 +3,7 @@ let handler = async(m, { conn, usedPrefix, command }) => {
 
     let don = `
 ≡ *DONACION*
-puedes donar si quieres ayudar a mantener el bot activo
+puedes donar si quieres ayudar a mantener el bot activo o que el admin se compre un café 
 
 ▢ *PayPal*
 • *Link :* https://paypal.me/naco17
